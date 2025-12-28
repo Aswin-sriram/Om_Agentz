@@ -122,6 +122,9 @@ const Footer = () => {
             <p className="text-cream/60 text-sm">
               Proprietor: Mr. Saravanan J
             </p>
+            <p className="text-cream/60 text-sm">
+              Designed and developed by Aswin Sriram
+            </p>
           </div>
         </div>
       </div>
