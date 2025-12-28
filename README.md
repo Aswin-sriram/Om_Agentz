@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Om Canvassing Agentz Website
 
 ## Project info
@@ -43,3 +44,6 @@ Build the app and serve the `dist` folder with your hosting provider.
 ```sh
 npm run build
 ```
+=======
+# Om_Agentz
+>>>>>>> ca2623a94d3983e907763862f5acfd0f717408bb
